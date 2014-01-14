@@ -1,4 +1,4 @@
-ionic-angular-cordova-seed
+Test Ionic Framework
 ==========================
 
 The perfect starting point for an Ionic project.
